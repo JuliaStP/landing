@@ -139,14 +139,15 @@ img {
    flex-shrink: 0;
 }
 
-
-
-
-
-
-
-
 .footer {
-    position: fixed;
-    bottom: 0;
+    /* position: fixed;
+    bottom: 0; */
+    text-align: center;
+    padding: 20px 300px;
+    background-color: #1F2937;
+}
+
+.footer-text {
+    text-align: center;
+    color: #fff;
 }
